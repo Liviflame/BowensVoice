@@ -1,0 +1,19 @@
+{
+    "677c9f4a3f78f9963389a10f": {
+        "locales": {
+            "en": "Bowen"
+        },
+        "name": "Bowen",
+        "addVoiceToPlayer": true,
+        "addToBotTypes": {
+      "bear": 0,
+      "usec": 0,
+      "pmcbear": 0,
+      "pmcusec": 0,
+      "pmcbot": 0,
+      "exusec": 0
+        },
+        "bundlePath": "Voices/bowen_voice.bundle"
+    }
+}
+    

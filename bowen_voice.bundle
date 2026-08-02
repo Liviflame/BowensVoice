@@ -1,0 +1,14 @@
+{
+    "manifest": [
+        {
+            "key": "Audio/bowen_audio.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "Voices/bowen_voice.bundle",
+            "dependencyKeys": [
+                "Audio/bowen_audio.bundle"
+            ]
+        }
+    ]
+}
